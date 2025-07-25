@@ -1,3 +1,10 @@
+Participates:
+❖ Debasish Senapati- 22cse328
+❖ Rajesh Kumar Panda- 22cse857
+❖ Rakesh Senapati- 22cse329
+❖ M.Bharat:- 22cse793
+
+
 🚗 Auto Insurance Fraud Detection using ML
 This project aims to detect fraudulent auto insurance claims using advanced machine learning and deep learning techniques. It involves a complete pipeline from data preprocessing, feature engineering, class imbalance handling, model training, evaluation, and final prediction on unseen validation data.
 
